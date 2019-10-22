@@ -1,6 +1,7 @@
 * {
     align-content: center;
 }
+
 body{
     background-color: pink;
     /* background-image: url(image/backgrnd.jpg); */
@@ -18,8 +19,26 @@ body{
 #mburia img{
     border-radius: 100%;
     margin-left: 40%;
+    shadow
 }
 #mburia h1{
     text-align: center;
 }
+#mburia img:hover {
+    background-color: black;
+}
+.container {
+    position: relative;
+    width:90%;
+    display: grid;
+    display:flex;
+    flex-shrink:2;
+    .container {
+        position: relative;
+        width:90%;
+        display: grid;
+        display:flex;
+        flex-shrink:2;
+    }
+
 
