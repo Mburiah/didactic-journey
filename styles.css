@@ -40,5 +40,10 @@ body{
         display:flex;
         flex-shrink:2;
     }
-
+.container {
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
