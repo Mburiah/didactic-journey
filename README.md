@@ -1,5 +1,5 @@
 # didactic-journey
-##by Mburiah
+by Mburiah
 ### This is a Portfolio Landing Page that I created using, HTML and CSS. 
 The portfolio is an easier way of knowing more about me in a more attractive manner than a CV because it contains visuals like images and animations.
 You can also get to know the following about me:
