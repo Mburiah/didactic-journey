@@ -1,12 +1,24 @@
 body {
-    background-color: hotpink;
+    background-color: pink;
+    /* background-image: url(image/backgrnd.jpg); */
     padding:30px left 30px right;
     margin: 20px;
     margin-top:0;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover ;
     height: 100vh;
     background-position: center center;
     flex-wrap: wrap;
     padding:3px;
+    
+}
+#mburia img{
+    border-radius: 100%;
+    margin-left: 40%;
+}
+#mburia h1{
+    text-align: center;
+}
+.screenshot img{
+    margin-left: 20%;
 }
