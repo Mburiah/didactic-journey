@@ -3,15 +3,15 @@
 }
 
 body{
-    background-color: pink;
-    /* background-image: url(image/backgrnd.jpg); */
+    /*background-color: pink;*/
+    background-image: url(https://bit.ly/2Jcvwbq);
     padding:30px left 30px right;
     margin: 20px;
     margin-top:0;
     background-repeat: no-repeat;
     background-size: cover ;
     height: 100vh;
-    background-position: center center;
+    background-position: center fill;
     flex-wrap: wrap;
     padding:3px;
     
@@ -32,6 +32,7 @@ body{
     flex-direction: column;
     padding: 4px;
     align-items: center;
+    border: 10px;
 
 }
 
