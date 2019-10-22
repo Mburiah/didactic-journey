@@ -1,4 +1,7 @@
-body {
+* {
+    align-content: center;
+}
+body{
     background-color: pink;
     /* background-image: url(image/backgrnd.jpg); */
     padding:30px left 30px right;
@@ -19,6 +22,4 @@ body {
 #mburia h1{
     text-align: center;
 }
-.screenshot img{
-    margin-left: 20%;
-}
+
