@@ -1,4 +1,12 @@
 body {
-    background-image: url(image/backgrnd.jpg);
-    
+    background-color: hotpink;
+    padding:30px left 30px right;
+    margin: 20px;
+    margin-top:0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center center;
+    flex-wrap: wrap;
+    padding:3px;
 }
